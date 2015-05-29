@@ -1,5 +1,5 @@
 
-# —————————— ESS ————————:
+# ESS
 M-;: comment/uncomment region, after the region is selected;
 C-RET: evaluate;
 C-c M-r: evaluate region and go;
@@ -16,8 +16,7 @@ M-x whitespace-mode: toggle whitespace model to show TAB, space, etc;
 M-x untabify/tabify: remove/not remove tabs in buffer;
 M-n/p: next/previous command in ESS R console;
 
-
-# —————————— panel, frame, window ————————:
+# panel, frame, window
 C-x <-: winner-mode, winner-undo, go back to previous split pane config;
 C-x ->: winner-redo;
 
