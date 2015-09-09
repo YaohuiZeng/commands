@@ -1,1 +1,1 @@
-gcc test.c -o test -lm -std=c99
+*``gcc test.c -o test -lm -std=c99``
