@@ -6,5 +6,7 @@
 Compile C and C++:
 
 ``gcc -c -std=c99 -o file1.o file1.c``
+
 ``g++ -c -std=c++0x -o file2.o file2.cpp``
+
 ``g++ -o myapp file1.o file2.o``
