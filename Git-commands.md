@@ -2,6 +2,7 @@
 * `git commit -m`
 * `git push -f origin HEAD^:master`: undo the push
 * add `#L10-20` to URL of code file: highlight lines 10 - 20, for example: https://github.com/YaohuiZeng/Bayesian-changepoint/blob/master/M1_DiscretePrior.R#L10-L20
+* clone a git repository into a specific folder: `git clone git@github.com:whatever folder-name`
 
 ### [Revert commits](http://stackoverflow.com/questions/4114095/how-to-revert-git-repository-to-a-previous-commit)
 * `git reset --hard <SHA>`: hard delete any local modifications.
