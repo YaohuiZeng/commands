@@ -13,3 +13,6 @@
 * `git checkout -b old-state <SHA>`: want to make commits, need make a new branch
 
 ### reference card: http://www.dataschool.io/git-quick-reference-for-beginners/
+
+### [Resolve merge conflicts](http://stackoverflow.com/questions/161813/how-to-resolve-merge-conflicts-in-git)
+
