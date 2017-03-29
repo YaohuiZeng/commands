@@ -16,3 +16,5 @@
 
 ### [Resolve merge conflicts](http://stackoverflow.com/questions/161813/how-to-resolve-merge-conflicts-in-git)
 
+### [Update forked repo](http://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository)
+
